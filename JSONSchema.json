@@ -1,0 +1,46 @@
+[
+  {
+    "key": "pagination",
+    "type": "object",
+    "values": [
+      {
+        "key": "total",
+        "type": "number",
+        "value": 1000
+      },
+      {
+        "key": "limit",
+        "type": "number",
+        "value": 1000
+      },
+      {
+        "key": "offset",
+        "type": "number",
+        "value": 1000
+      },
+      {
+        "key": "total_pages",
+        "type": "number",
+        "value": 1000
+      }
+    ]
+  },
+  {
+    "key": "data",
+    "type": "array",
+    "values": [
+      [
+        {
+          "key": "api_link",
+          "type": "string",
+          "value": "artworks"
+        }
+      ]
+    ]
+  },
+  {
+    "key": "title",
+    "type": "string",
+    "value": "Diwakar Prasad"
+  }
+]
